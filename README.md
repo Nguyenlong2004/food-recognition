@@ -580,11 +580,11 @@ Lấy lịch sử ăn uống.
 
 | | |
 |--|--|
-| **Họ tên** | [Tên của bạn] |
+| **Họ tên** | [Nguyễn Văn Long] |
 | **Trường** | Đại học Đại Nam |
 | **Khoa** | Công nghệ Thông tin |
-| **GitHub** | [@your-username](https://github.com/your-username) |
-| **Email** | your@email.com |
+| **GitHub** | (https://github.com/Nguyenlong2004) |
+| **Email** | nguyenvanlong978767@gmail.com |
 
 ---
 
